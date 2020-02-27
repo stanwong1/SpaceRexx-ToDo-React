@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SpaceRexx-ToDo-React/static/css/main.af718a96.chunk.css",
+    "main.js": "/SpaceRexx-ToDo-React/static/js/main.09642f36.chunk.js",
+    "main.js.map": "/SpaceRexx-ToDo-React/static/js/main.09642f36.chunk.js.map",
+    "runtime-main.js": "/SpaceRexx-ToDo-React/static/js/runtime-main.3cd95fb3.js",
+    "runtime-main.js.map": "/SpaceRexx-ToDo-React/static/js/runtime-main.3cd95fb3.js.map",
+    "static/js/2.465f0ee4.chunk.js": "/SpaceRexx-ToDo-React/static/js/2.465f0ee4.chunk.js",
+    "static/js/2.465f0ee4.chunk.js.map": "/SpaceRexx-ToDo-React/static/js/2.465f0ee4.chunk.js.map",
+    "index.html": "/SpaceRexx-ToDo-React/index.html",
+    "precache-manifest.626d09f1bfa6afbfb7c2aabb77076165.js": "/SpaceRexx-ToDo-React/precache-manifest.626d09f1bfa6afbfb7c2aabb77076165.js",
+    "service-worker.js": "/SpaceRexx-ToDo-React/service-worker.js",
+    "static/css/main.af718a96.chunk.css.map": "/SpaceRexx-ToDo-React/static/css/main.af718a96.chunk.css.map",
+    "static/js/2.465f0ee4.chunk.js.LICENSE.txt": "/SpaceRexx-ToDo-React/static/js/2.465f0ee4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cd95fb3.js",
+    "static/js/2.465f0ee4.chunk.js",
+    "static/css/main.af718a96.chunk.css",
+    "static/js/main.09642f36.chunk.js"
+  ]
+}
